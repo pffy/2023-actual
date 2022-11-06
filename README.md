@@ -1,10 +1,8 @@
-# Predictions for 2023
+# Results of Predictions for 2023
 
-The following [predictions](https://www.youtube.com/watch?v=lSPNQ82Sq4E) are the results of economic modeling, machine learning, meaning-making from qualitative research, and when the chances are even -- coin flips. This repo has been archived, and the actual outcomes will be tracked here:
+This repo compares actual outcomes to [predictions for 2023](https://github.com/pffy/2023).
 
-  * https://github.com/pffy/2023-actual
-
-In 2023:
+We predicted in 2023:
 
   + Jack Dorsey [returns as CEO of Twitter](https://www.youtube.com/watch?v=szUEkiRPQwQ).
   + The Federal Reserve issues FOMC statement that explains impromptu emergency interest rate hike.
