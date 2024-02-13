@@ -9,9 +9,11 @@ We predicted in 2023:
   + The Federal Reserve issues FOMC statement that explains impromptu emergency interest rate hike.
     * WRONG
   + Google lays off [50% of its workforce](https://www.youtube.com/watch?v=3OyrX11cMkE).
-    + 
+    + WRONG: https://layoffs.fyi 
   + MacKenzie Scott and Laurene Powell Jobs fund a new digital equity initiative, run by [Alexandria Ocasio-Cortez](https://twitter.com/AOC). The "AOC Foundation" uses its billion-dollar endowment to help new ideas reach audiences more effectively.
+    + WRONG. The "wokeness fad" is over. 
   + YouTube buys radio station to broadcast top influencers on AM/FM radios.
+    + WRONG 
   + National Public Radio (NPR) shuts down, after losing federal funding and underwriters.
     * WRONG
   + JP Morgan ([$JPM](https://finance.yahoo.com/quote/JPM)) acquires Bank of America for about $5 per share.
