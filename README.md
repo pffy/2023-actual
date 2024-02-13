@@ -24,14 +24,20 @@ We predicted in 2023:
     * WRONG. Cooler heads prevailed and a common sense agreement was reached.
   + Heavy dust storms accelerate the [Phase 4 corrosion](https://www.utilityproducts.com/home/article/16003357/transmission-tower-maintenance) of power transmission steel lattice towers. Power outages and steel shortages follow.
     * WRONG. No dust bowl.
+  
+  
   + After winning Super Bowl LVII with the [Tampa Bay Buccaneers](https://www.buccaneers.com/), Tom Brady retires to become an avocado farmer.
     + Brady retired; he is now an analyst.
   + Tom Brady announces the National Strategic Avocado Reserve.
     * WRONG
+  
+  
   + Elon Musk buys [New York Times](https://www.nytimes.com/).
     * WRONG. Missed opportunity for guaranteed daily active user audience.
   + [Autobahn-like](https://en.wikipedia.org/wiki/Autobahn) highway tested in Texas.
     * WRONG.
+ 
+  
   + [Kara Swisher](https://twitter.com/karaswisher) wins both the Peabody Award and Pulitzer Prize in the same year.
     + WRONG. Despite an amazing year of journalism and entertainment.
     + [2023 Podcast of the Year: Succession Podcast](https://www.adweek.com/convergent-tv/the-succession-podcast-is-adweeks-2023-podcast-of-the-year/).
@@ -43,10 +49,10 @@ We predicted in 2023:
     * WRONG.
 
   + McDonald's ([$MCD](https://finance.yahoo.com/quote/MCD)) is acquired by Asia-based private equity giant and is taken private. This gives time to restructure debt.
-    + WRONG.However, lag effects of monetary policy still unseen.
+    + WRONG. However, lag effects of monetary policy still unseen.
 
   + Burger King ([$QRS](https://finance.yahoo.com/quote/QSR)) is acquired by Europe-based private equity firm. The firm spins off the Whopper into its own burger shop, like Shake Shack or In-N-Out burger.
-    + WRONG.However, lag effects of monetary policy still unseen.
+    + WRONG. However, lag effects of monetary policy still unseen.
 
   + [Airbnb](https://www.airbnb.com/) adds mixed-use retail space to rental inventory for pop-up stores.
     + WRONG 
