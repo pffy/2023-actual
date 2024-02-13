@@ -33,9 +33,10 @@ We predicted in 2023:
   + [Autobahn-like](https://en.wikipedia.org/wiki/Autobahn) highway tested in Texas.
     * WRONG.
   + [Kara Swisher](https://twitter.com/karaswisher) wins both the Peabody Award and Pulitzer Prize in the same year.
-    + WRONG. Despite an amazing year of journalism and entertainment. 
+    + WRONG. Despite an amazing year of journalism and entertainment.
+    + [2023 Podcast of the Year: Succession Podcast](https://www.adweek.com/convergent-tv/the-succession-podcast-is-adweeks-2023-podcast-of-the-year/).
   + [NYU Professor Scott Galloway](https://www.profgalloway.com/) is named Time's Person of the Year.
-    + WRONG.   
+    + WRONG. Feminism had a moment. Better luck next year.
   + Maggie Haberman is appointed editor-in-chief of Washington Post.
     * WRONG.
   + [Warren Buffet](https://www.youtube.com/watch?v=FsDYatBvwYI) retires.
